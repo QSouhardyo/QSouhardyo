@@ -20,8 +20,8 @@ I'm a passionate Frontend Developer who enjoys building clean, responsive, and u
 ![](https://github-contributor-stats.vercel.app/api?username=QSouhardyo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<p align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=QSouhardyo)
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
