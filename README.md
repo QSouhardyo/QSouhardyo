@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quazi Aumio Souhardyo</h1>
+# Hi 👋, I'm Quazi Aumio Souhardyo
 
 
 ## 👨‍💻 About Me
