@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Quazi Aumio Souhardyo</h1>
-# 💫 About Me:
-I'm a passionate Frontend Developer who enjoys building clean, responsive, and user-friendly web applications. I mainly work with JavaScript and React, while continuously improving my skills across the modern web development ecosystem.<br><br> 💻 Focused on **Frontend Web Development**<br>⚛️ Currently working with **React.js**<br> 📚 Improving my **JavaScript & TypeScript** skills<br> 🌱 Exploring modern web development tools and technologies<br> 🚀 Interested in building real-world, user-friendly web applications<br> 🔍 Always learning better development practices and writing cleaner code
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate Frontend Developer who enjoys building clean, responsive, and user-friendly web applications. I mainly work with JavaScript and React, while continuously improving my skills across the modern web development ecosystem.
+
+- 💻 Focused on **Frontend Web Development**
+- ⚛️ Currently working with **React.js**
+- 📚 Improving my **JavaScript & TypeScript** skills
+- 🌱 Exploring modern web development tools and technologies
+- 🚀 Interested in building real-world, user-friendly web applications
+- 🔍 Always learning better development practices and writing cleaner code
 
 
 ## 🌐 Socials:
