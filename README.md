@@ -1,4 +1,4 @@
-                                                      # Hi 👋, I'm Quazi Aumio Souhardyo  
+ #                                                    Hi 👋, I'm Quazi Aumio Souhardyo  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
