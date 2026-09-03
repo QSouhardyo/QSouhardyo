@@ -21,10 +21,7 @@ I'm a passionate Frontend Developer who enjoys building clean, responsive, and u
 
 ---
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=QSouhardyo&style=for-the-badge&color=blue&label=PROFILE+VIEWS" 
-    alt="Profile Views"
-  />
+![Profile Views](https://komarev.com/ghpvc/?username=QSouhardyo)
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
